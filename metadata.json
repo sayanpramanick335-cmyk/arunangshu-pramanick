@@ -1,0 +1,6 @@
+{
+  "name": "MoodPin",
+  "description": "An original visual discovery and moodboard application for aesthetic inspiration, saved collections, and AI-driven prompt generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
